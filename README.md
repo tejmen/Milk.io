@@ -1,2 +1,2 @@
 # Milk.io
-A clicker game made in scratch.mit.edu
+A clicker game made in (scratch.mit.edu)[url]
