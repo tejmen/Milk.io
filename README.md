@@ -1,3 +1,5 @@
 # Milk.io
-A clicker game made in scratch.mit.edu
-Made by Tej Men
+
+A clicker game made in [scratch.mit.edu](url)
+### Made by Tej Men
+
